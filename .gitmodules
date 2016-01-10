@@ -4,3 +4,21 @@
 [submodule "course/format/topcoll"]
 	path = course/format/topcoll
 	url = https://github.com/gjb2048/moodle-format_topcoll.git
+[submodule "local/eliscore"]
+	path = local/eliscore
+	url = https://github.com/remotelearner/moodle-local_eliscore.git
+[submodule "local/elisprogram"]
+	path = local/elisprogram
+	url = https://github.com/remotelearner/moodle-local_elisprogram.git
+[submodule "enrol/elis"]
+	path = enrol/elis
+	url = https://github.com/remotelearner/moodle-enrol_elis.git
+[submodule "blocks/elisadmin"]
+	path = blocks/elisadmin
+	url = https://github.com/remotelearner/moodle-block_elisadmin.git
+[submodule "blocks/elisdashboard"]
+	path = blocks/elisdashboard
+	url = https://github.com/remotelearner/moodle-block_elisdashboard.git
+[submodule "local/elisreports"]
+	path = local/elisreports
+	url = https://github.com/remotelearner/moodle-local_elisreports.git
