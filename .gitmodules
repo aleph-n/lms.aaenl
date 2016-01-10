@@ -1,0 +1,3 @@
+[submodule "theme/evolved"]
+	path = theme/evolved
+	url = https://github.com/kennibc/moodle-theme_evolved.git
