@@ -22,3 +22,6 @@
 [submodule "local/elisreports"]
 	path = local/elisreports
 	url = https://github.com/remotelearner/moodle-local_elisreports.git
+[submodule "auth/wp2moodle"]
+	path = auth/wp2moodle
+	url = https://github.com/frumbert/wp2moodle-moodle.git
